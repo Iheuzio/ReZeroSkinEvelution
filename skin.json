@@ -985,7 +985,7 @@
         "elements": true,
         "content-tables": true,
         "content-links": true,
-        "content-thumbnails": true,
+        "content-media": true,
         "interface-category": true,
         "toc": true
       },
