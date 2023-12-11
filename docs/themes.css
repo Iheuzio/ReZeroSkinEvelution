@@ -1,14 +1,12 @@
 /** Light **/
 /* Standard */
 .theme-A.colorscheme-light.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(1);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#ffffff;
 --desktop-text-background-color:#606c71;
 --desktop-background-horizontal-alignment:center;
 --desktop-background-vertical-alignment:center;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#ffffff;
@@ -42,14 +40,12 @@
 
 /* Dynamic Red */
 .theme-B.colorscheme-light.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(1);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#ebd0d0;
 --desktop-text-background-color:#3a2525;
 --desktop-background-horizontal-alignment:center;
 --desktop-background-vertical-alignment:center;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#ebd0d0;
@@ -82,14 +78,12 @@
 }
 /* Dynamic Green */
 .theme-C.colorscheme-light.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(100%);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#cfe4da;
 --desktop-text-background-color:#0f261a;
 --desktop-background-horizontal-alignment:left;
 --desktop-background-vertical-alignment:top;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#cfe4da;
@@ -123,14 +117,12 @@
 
 /* Dynamic Blue */
 .theme-D.colorscheme-light.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(1);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#d1e1f1;
 --desktop-text-background-color:#0a1f34;
 --desktop-background-horizontal-alignment:center;
 --desktop-background-vertical-alignment:center;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#d1e1f1;
@@ -204,14 +196,12 @@
 }
 /* CPE Language */
 .theme-F.colorscheme-light.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(100%);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#e4c8ff;
 --desktop-text-background-color:#3e2557;
 --desktop-background-horizontal-alignment:left;
 --desktop-background-vertical-alignment:top;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#f1f2f3;
@@ -328,14 +318,12 @@
 
 /* Standard */
 .theme-A.colorscheme-dark.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(1);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#000000;
 --desktop-text-background-color:#8b989d;
 --desktop-background-horizontal-alignment:center;
 --desktop-background-vertical-alignment:center;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#000000;
@@ -369,14 +357,12 @@
 
 /* Dynamic Red */
 .theme-B.colorscheme-dark.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(1);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#332323;
 --desktop-text-background-color:#e5d5d5;
 --desktop-background-horizontal-alignment:center;
 --desktop-background-vertical-alignment:center;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#332323;
@@ -410,14 +396,12 @@
 
 /* Dynamic Green */
 .theme-C.colorscheme-dark.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(1);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#041f11;
 --desktop-text-background-color:#d4ede1;
 --desktop-background-horizontal-alignment:center;
 --desktop-background-vertical-alignment:center;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#041f11;
@@ -451,14 +435,12 @@
 	
 /* Dynamic Blue */
 .theme-D.colorscheme-dark.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(100%);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#132333;
 --desktop-text-background-color:#d3e3f2;
 --desktop-background-horizontal-alignment:left;
 --desktop-background-vertical-alignment:top;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#132333;
@@ -533,14 +515,12 @@
 
 /* CPE Language */
 .theme-F.colorscheme-dark.visualcolors-standard {
---desktop-background-image:;
 --desktop-background-image-filter:opacity(100%);
 --desktop-background-image-blend-mode:normal;
 --desktop-background-color:#441177;
 --desktop-text-background-color:#e4c8ff;
 --desktop-background-horizontal-alignment:left;
 --desktop-background-vertical-alignment:top;
---desktop-background-size:;
 --desktop-background-no-horizontal-tiling:true;
 --desktop-background-no-vertical-tiling:true;
 --canvas-background-color:#0c0d0e;
