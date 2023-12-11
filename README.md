@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _QQC is back on MediaWiki with the hybrid Mustache/JavaScript powered theme, Evelution, from the creators of CPE Blocks and Qora Qore_
 
 # Description
@@ -24,3 +25,7 @@ Join our [Discord server](https://discord.gg/a6FbV6zWFs) for additional assistan
 
 # Known Limitation
 - Toolbar can cover the page action dropdowns if the content area is too small. If it does that, collapse it.
+=======
+# ReZeroSkinEvelution
+Skin for ReZero Wiki derived from Evelution's Skin
+>>>>>>> 8d4a172dd277dea3e57f521c6ae26c8e1c9f0dc9
