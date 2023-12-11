@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-_QQC is back on MediaWiki with the hybrid Mustache/JavaScript powered theme, Evelution, from the creators of CPE Blocks and Qora Qore_
-
 # Description
 Evelution is a Next Gen Skin for MediaWiki. Designed to improve reading, has four different themes that you can use on a per-page basis. With the inclusion of a dark mode, you can read pages with less eye stress.
 
@@ -28,4 +25,3 @@ Join our [Discord server](https://discord.gg/a6FbV6zWFs) for additional assistan
 =======
 # ReZeroSkinEvelution
 Skin for ReZero Wiki derived from Evelution's Skin
->>>>>>> 8d4a172dd277dea3e57f521c6ae26c8e1c9f0dc9
